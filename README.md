@@ -2,6 +2,7 @@
 <br>
 The Great Resignation refers to a global workforce trend where a significant number of employees are voluntarily leaving their jobs during or towards the end of the pandemic. This analysis was initiated following the Great Resignation to take a deeper look into the resignation trends in Singapore.
 <br>
+<br>
 In our analysis, we have looked into the resignation rates in Singapore over the years, across industries and occupations, as well as in relation to other workplace factors. An Rshiny App was created to enable users to explore these trends. We hope that through the analysis, it can better inform the Singapore Government and related service providers on the trends and underlying reasons that might be driving resignations. Ultimately, we aim to empower decision makers to tailor manpower policies to meet the needs of different industries, and in the long run, attain Singapore’s larger economic goals.
 <br>
 
@@ -17,4 +18,4 @@ The following public data sources are used for this project:
 This project includes one Rshiny file and two data csv files. The Rshiny App has been deployed on shinyapps.io and is accessible via <https://fongbx.shinyapps.io/rshiny_app/>.
 
 ## Acknowledgements
-This study was completed as part of a group project. Special acknowledgements to my groupmates and co-authors - Neo Yi Xin, Loh Jiahui, Sherinah Binte Rashid and Zhu Yiting.
+This study was completed as part of a group project. Special acknowledgements to my groupmates and co-authors - **Neo Yi Xin**, **Loh Jiahui**, **Sherinah Binte Rashid** and **Zhu Yiting**.
