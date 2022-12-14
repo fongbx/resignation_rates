@@ -1,5 +1,4 @@
 # Analysis of Resignation Rates in Singapore
-<br>
 The Great Resignation refers to a global workforce trend where a significant number of employees are voluntarily leaving their jobs during or towards the end of the pandemic. This analysis was initiated following the Great Resignation to take a deeper look into the resignation trends in Singapore.
 <br>
 <br>
